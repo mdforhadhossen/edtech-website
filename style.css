@@ -1,4 +1,11 @@
+
 .text-item{
     position: absolute;
     margin-bottom: 150px;
+}
+.img-bg{
+    filter: brightness(60%);
+}
+h1{
+    font-size: 4.5rem!important;
 }
