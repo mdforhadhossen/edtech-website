@@ -12,3 +12,13 @@ h2{
 h1{
     font-size: 3rem!important;
 }
+/* register Section */
+.full-box{
+   padding: 50px;
+}
+.left-content{
+   width: 60%;
+}
+.right-register{
+   width: 30%;
+}
