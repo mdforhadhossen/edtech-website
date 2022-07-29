@@ -6,6 +6,9 @@
 .img-bg{
     filter: brightness(60%);
 }
-h1{
+h2{
     font-size: 4.5rem!important;
+}
+h1{
+    font-size: 3rem!important;
 }
