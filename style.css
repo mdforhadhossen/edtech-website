@@ -1,4 +1,7 @@
 
+.container{
+    
+}
 .text-item{
     position: absolute;
     margin-bottom: 150px;
@@ -6,10 +9,10 @@
 .img-bg{
     filter: brightness(60%);
 }
-h2{
+.carousel-h2{
     font-size: 4.5rem!important;
 }
-h1{
+.blog-heading{
     font-size: 3rem!important;
 }
 /* register Section */
